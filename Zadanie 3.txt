@@ -1,0 +1,40 @@
+krakow.pl
+Serwery obsługujące domenę: 
+ - Akademickie Centrum Komputerowe CYFRONET AGH
+
+onet.pl
+Serwery obsługujące domenę:
+mx.poczta.onet.pl
+onet.pl	NS	0		ns6.ringpublishing.net
+onet.pl	NS	0		ns8.ringpublishing.net
+onet.pl	NS	0		ns7.ringpublishing.net
+onet.pl	NS	0		ns5.ringpublishing.net
+onet.pl	SOA	60		ns5.ringpublishing.net support.ringpublishing.com 1 300 150 2419200 60
+onet.pl	A	0		3.167.99.8
+onet.pl	A	0		3.167.99.114
+onet.pl	A	0		3.167.99.55
+onet.pl	A	0		3.167.99.122
+www.onet.pl	A	0		18.160.18.68
+www.onet.pl	A	0		18.160.18.29
+www.onet.pl	A	0		18.160.18.112
+www.onet.pl	A	0		18.160.18.11
+
+biblioteka.pl
+Serwery obsługujące domenę:
+Hostname	Type	TTL	Priority	Content
+biblioteka.pl	AAAA	0		2606:4700:20::681a:66f
+biblioteka.pl	AAAA	0		2606:4700:20::681a:76f
+biblioteka.pl	AAAA	0		2606:4700:20::ac43:4a26
+biblioteka.pl	MX	0	10	mail39.mydevil.net
+biblioteka.pl	SOA	1800		arya.ns.cloudflare.com dns.cloudflare.com 2384283018 10000 2400 604800 1800
+biblioteka.pl	A	0		172.67.74.38
+biblioteka.pl	A	0		104.26.7.111
+biblioteka.pl	A	0		104.26.6.111
+biblioteka.pl	NS	0		arya.ns.cloudflare.com
+biblioteka.pl	NS	0		rohin.ns.cloudflare.com
+www.biblioteka.pl	A	0		128.204.216.124
+www.biblioteka.pl	NS	0		arya.ns.cloudflare.com
+www.biblioteka.pl	NS	0		rohin.ns.cloudflare.com
+www.biblioteka.pl	SOA	1800		arya.ns.cloudflare.com dns.cloudflare.com 2384283018 10000 2400 604800 1800
+www.biblioteka.pl	MX	0	10	mail39.mydevil.net
+www.biblioteka.pl	CNAME	0		biblioteka.pl
